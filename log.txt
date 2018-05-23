@@ -1,0 +1,41 @@
+Title: ====================================================
+liri command: movie-this 
+=====================================================
+Title: Mr. Nobody
+Year: 2009
+IMDB rating : 7.9/10
+Rotten Tomatoes rating : 66%/100%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+======================================================Title: ====================================================
+liri command: movie-this 
+=====================================================
+Title: Pride
+Year: 2014
+IMDB rating : 7.8/10
+Rotten Tomatoes rating : 92%/100%
+Filmed in: UK, France
+Language: English, Welsh
+Movie plot: U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
+Actors: Ben Schnetzer, Abram Rooney, Jim McManus, George MacKay
+======================================================Title: ====================================================
+liri command: movie-this 
+=====================================================
+Title: Black Panther
+Year: 2018
+IMDB rating : 7.7/10
+Rotten Tomatoes rating : 97%/100%
+Filmed in: USA
+Language: Swahili, Nama, English, Xhosa, Korean
+Movie plot: T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+Actors: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+======================================================Title: ====================================================
+liri command: spotify-this-song 
+=====================================================
+Song: What Would You Say
+Artist: Dave Matthews Band
+Album: Under the Table and Dreaming (Expanded Edition)
+Preview Here: https://p.scdn.co/mp3-preview/8807f1c8c326164a7e14270bf2fc82d85f2b5d42?cid=6f5e41f808564448860b59553a0f0165
+=====================================================@winterbornMurph: Tweet No.1:r/nI'm a dog, I don't have to pay taxes, Happy Tax Day everyone!r/n=====================================================@winterbornMurph: Tweet No.2:r/n#dogs are awesome #SpinoneLifer/n=====================================================@winterbornMurph: Tweet No.3:r/nThe #SpinoneClubofAmerica is having its national specialty today; I am not there but my brother Jasper is #winForTheFamilyr/n=====================================================@winterbornMurph: Tweet No.4:r/nI'm a #SpinoneItaliano and I have a twitter account. Funny since I don't have thumbs! #tweet #workingthumbsr/n=====================================================@winterbornMurph: Tweet No.5:r/nHello Twitter! #myfirstTweetr/n=====================================================
